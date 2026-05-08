@@ -3,8 +3,8 @@
     "id": 1,
     "username": "admin",
     "password": "1234",
-    "name": "administrador1",
-    "role": "Administrador"
+    "name": "Gerente1",
+    "role": "Gerente"
   },
   {
     "id": 2,

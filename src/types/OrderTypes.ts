@@ -2,12 +2,12 @@
 export type OrderStatus = 'completed' | 'pending' | 'failed'
 export type SortField = 'id' | 'product' | 'amount' | 'date'
 export type SortDirection = 'asc' | 'desc'
+export type UserRole = 'Gerente' | 'Operador'
 
-// Modelos
 export interface Order {
   id: string
   product: string
-  status: OrderStatus  // ← usa el tipo en vez de repetirlo
+  status: OrderStatus
   amount: number
   date: string
   tenant: string
@@ -27,4 +27,9 @@ export interface CardTabsProps {
 
 export interface OrderChartProps {
   activeTab: OrderStatus
+}
+
+export interface DashboardViewProps {
+  activeTab: OrderStatus
+  onTabChange: (status: OrderStatus) => void
 }

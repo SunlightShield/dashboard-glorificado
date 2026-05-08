@@ -32,9 +32,9 @@ function CardLogin({ onLogin }: CardLoginProps) {
     <div className={`bg-zinc-900 border border-zinc-800 rounded-2xl p-10 flex flex-col gap-4 w-full max-w-sm ${shaking ? 'animate__animated animate__shakeX' : ''}`}>
       <div className="flex flex-col gap-1">
         <span className="text-amber-500 text-xs font-mono tracking-widest uppercase">
-          Sistema de Gestión
+          Tu Dashboard de ordenes
         </span>
-        <h1 className="text-white text-2xl font-bold">Purchase Dashboard</h1>
+        <h1 className="text-white text-2xl font-bold">Midifakefy</h1>
         <p className="text-zinc-500 text-sm">Ingresa tus credenciales para continuar.</p>
       </div>
 

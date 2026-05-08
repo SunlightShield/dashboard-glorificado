@@ -4,7 +4,7 @@ import Footer from './Footer'
 import DashboardGerente from './DashboardGerente'
 import DashboardOperador from './DashboardOperador'
 import type { DashboardProps } from '../../types/DashboardTypes'
-import type { OrderStatus, UserRole } from '../../types/OrderTypes'
+import type { OrderStatus} from '../../types/OrderTypes'
 
 const REFRESH_SECONDS = 5 * 60
 

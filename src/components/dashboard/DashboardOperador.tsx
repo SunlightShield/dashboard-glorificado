@@ -1,4 +1,4 @@
-import type { OrderStatus, DashboardViewProps } from '../../types/OrderTypes'
+import type {DashboardViewProps } from '../../types/OrderTypes'
 import ComponenteResumen from './kpis/ComponenteResumen'
 import CardTabs from './orders/CardTabs'
 import OrderChart from './chart/OrderChart'

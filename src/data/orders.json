@@ -1,0 +1,174 @@
+[
+  {
+    "id": "ORD-001",
+    "product": "Teclado mecánico",
+    "status": "completed",
+    "amount": 49990,
+    "date": "2025-01-08",
+    "tenant": "TechStore",
+    "lastActualization": "2025-01-08",
+    "message": "Orden procesada y entregada sin inconvenientes."
+  },
+  {
+    "id": "ORD-002",
+    "product": "Monitor 27\"",
+    "status": "completed",
+    "amount": 189990,
+    "date": "2025-01-15",
+    "tenant": "DigitalWorld",
+    "lastActualization": "2025-01-15",
+    "message": "Pago confirmado, producto despachado."
+  },
+  {
+    "id": "ORD-003",
+    "product": "Mouse inalámbrico",
+    "status": "completed",
+    "amount": 24990,
+    "date": "2025-02-03",
+    "tenant": "TechStore",
+    "lastActualization": "2025-02-03",
+    "message": "Entrega exitosa al cliente."
+  },
+  {
+    "id": "ORD-004",
+    "product": "Silla gamer",
+    "status": "completed",
+    "amount": 299990,
+    "date": "2025-02-18",
+    "tenant": "HomeOffice",
+    "lastActualization": "2025-02-18",
+    "message": "Orden completada, cliente conforme."
+  },
+  {
+    "id": "ORD-005",
+    "product": "Headset USB",
+    "status": "completed",
+    "amount": 39990,
+    "date": "2025-03-05",
+    "tenant": "DigitalWorld",
+    "lastActualization": "2025-03-05",
+    "message": "Procesada sin observaciones."
+  },
+  {
+    "id": "ORD-006",
+    "product": "Webcam HD",
+    "status": "completed",
+    "amount": 54990,
+    "date": "2025-03-22",
+    "tenant": "TechStore",
+    "lastActualization": "2025-03-22",
+    "message": "Entrega confirmada por courier."
+  },
+
+  {
+    "id": "ORD-007",
+    "product": "Disco SSD 1TB",
+    "status": "pending",
+    "amount": 79990,
+    "date": "2025-02-10",
+    "tenant": "TechStore",
+    "lastActualization": "2025-02-11",
+    "message": "Esperando confirmación de pago."
+  },
+  {
+    "id": "ORD-008",
+    "product": "Tarjeta gráfica RTX 4060",
+    "status": "pending",
+    "amount": 459990,
+    "date": "2025-02-25",
+    "tenant": "GamerZone",
+    "lastActualization": "2025-02-26",
+    "message": "En revisión por el equipo de despacho."
+  },
+  {
+    "id": "ORD-009",
+    "product": "Fuente de poder 750W",
+    "status": "pending",
+    "amount": 69990,
+    "date": "2025-03-10",
+    "tenant": "HomeOffice",
+    "lastActualization": "2025-03-10",
+    "message": "Stock reservado, pendiente de despacho."
+  },
+  {
+    "id": "ORD-010",
+    "product": "Notebook Lenovo",
+    "status": "pending",
+    "amount": 549990,
+    "date": "2025-03-18",
+    "tenant": "DigitalWorld",
+    "lastActualization": "2025-03-19",
+    "message": "Verificando dirección de envío con el cliente."
+  },
+  {
+    "id": "ORD-011",
+    "product": "Tablet Samsung",
+    "status": "pending",
+    "amount": 219990,
+    "date": "2025-04-01",
+    "tenant": "TechStore",
+    "lastActualization": "2025-04-01",
+    "message": "Pago recibido, preparando despacho."
+  },
+
+  {
+    "id": "ORD-012",
+    "product": "Impresora láser",
+    "status": "failed",
+    "amount": 129990,
+    "date": "2025-01-20",
+    "tenant": "HomeOffice",
+    "lastActualization": "2025-01-21",
+    "message": "Error: método de pago rechazado por el banco."
+  },
+  {
+    "id": "ORD-013",
+    "product": "Router WiFi 6",
+    "status": "failed",
+    "amount": 59990,
+    "date": "2025-02-07",
+    "tenant": "GamerZone",
+    "lastActualization": "2025-02-08",
+    "message": "Error: dirección de envío inválida."
+  },
+  {
+    "id": "ORD-014",
+    "product": "Smart TV 55\"",
+    "status": "failed",
+    "amount": 399990,
+    "date": "2025-02-28",
+    "tenant": "DigitalWorld",
+    "lastActualization": "2025-03-01",
+    "message": "Error: producto sin stock al momento de confirmar."
+  },
+  {
+    "id": "ORD-015",
+    "product": "Parlante Bluetooth",
+    "status": "failed",
+    "amount": 34990,
+    "date": "2025-03-14",
+    "tenant": "TechStore",
+    "lastActualization": "2025-03-14",
+    "message": "Error: timeout en la pasarela de pago."
+  },
+  {
+    "id": "ORD-016",
+    "product": "Cámara mirrorless",
+    "status": "failed",
+    "amount": 699990,
+    "date": "2025-04-02",
+    "tenant": "GamerZone",
+    "lastActualization": "2025-04-03",
+    "message": "Error: fraude detectado, orden bloqueada."
+  },
+  {
+    "id": "ORD-017",
+    "product": "Micrófono condensador",
+    "status": "failed",
+    "amount": 89990,
+    "date": "2025-04-05",
+    "tenant": "HomeOffice",
+    "lastActualization": "2025-04-05",
+    "message": "Error: courier no pudo realizar la entrega en 3 intentos."
+  }
+]
